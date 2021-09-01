@@ -23,6 +23,10 @@
 hs_err_pid*
 
 <?xml version="1.0" encoding="UTF-8"?>
+  
+/ordersystem/
+/Junit/
+/JunitTestCases/
 <projectDescription>
 	<name>ShoppingCart2021</name>
 	<comment></comment>
